@@ -12,3 +12,6 @@ class main_app(ui_based.ui_elements):
 
     def __init__(self , master , width , height ) -> None:
         super().__init__()
+
+        ## Initializing the app : 
+        
